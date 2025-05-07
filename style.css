@@ -1,0 +1,12 @@
+#principal{
+    color: red;
+    font-style: italic;
+    font-size: 85px;
+}
+
+div{
+    background-color: rgb(255, 0, 106);
+    background-size:contain;
+    border-radius: 50px;
+    border-left: 20px;
+}
