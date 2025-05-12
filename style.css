@@ -1,12 +1,24 @@
-#principal{
+h1 {
     color: red;
-    font-style: italic;
-    font-size: 85px;
+    background-color: blue;
+    border-radius: 57%;
+    text-align: center;
 }
 
-div{
-    background-color: rgb(255, 0, 106);
-    background-size:contain;
-    border-radius: 50px;
-    border-left: 20px;
+#t {
+    background-position: 25%;
+}
+
+#formulario {
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+
+#avion {
+    text-align: center;
+}
+
+#av {
+    background-color: brown;
 }
