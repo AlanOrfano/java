@@ -1,0 +1,37 @@
+#titulo {
+    text-align: center;
+}
+
+#ciudades {
+    color: brown;
+}
+
+li{
+ color: black;
+ font-style: oblique;
+}
+
+body{
+    background-color: rgb(164, 151, 151);
+}
+
+#lista {
+ background-color: chocolate;
+}
+
+#descripción {
+font-style: oblique;
+font-weight: 800;
+}
+
+#boton {
+    text-align: center;
+    color: chocolate;
+    background-color: darkgoldenrod;
+}
+
+#carpa {
+display: grid;
+text-align: center;
+place-items: center;
+}
